@@ -141,7 +141,7 @@ body {
 }
 
 .rodape {
-    font: normal 10pt Arial;
+    font: italic 10pt Arial;
     padding: 20px;
     border-top: 0.4px solid #FFF2E7;
 
@@ -151,6 +151,7 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
+    
 }
 
 /* ----------------------- responsivo----------- */
